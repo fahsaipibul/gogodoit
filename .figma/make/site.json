@@ -1,0 +1,10 @@
+{
+  "description": "Track your finance recruiting progress with WACCY, a gamified app for university students that motivates and organizes networking and applications.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
